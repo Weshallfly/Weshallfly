@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Vishal Maurya @Weshallfly.
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning Generative AI.
